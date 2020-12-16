@@ -7,7 +7,7 @@ readme = "README.md"
 edition = "2018"
 license = "Apache-2.0"
 categories = ["embedded", "hardware-support", "no-std"]
-keywords = ["embedded-hal-driver","lora","sx1276","radio"]
+keywords = ["embedded-hal-driver","lora","sx1276","radio","RFM95","RFM95W"]
 description = "A platform-agnostic driver for Semtech SX1276/77/78/79 based boards."
 
 [dependencies]
